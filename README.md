@@ -6,9 +6,6 @@
 ## Linguagens mais usadas
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=pdroowkjj&layout=compact&theme=dark)
 
-## Streak de commits
-![Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=pdroowkjj&theme=dark)
-
 ---
 
 ## Contribuições
