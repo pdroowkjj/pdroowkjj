@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, eu sou o Pedro Potapczuk! 👋
 
-<!--
-**pdroowkjj/pdroowkjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## GitHub Stats
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=pdroowkjj&show_icons=true&theme=dark)
 
-Here are some ideas to get you started:
+## Linguagens mais usadas
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=pdroowkjj&layout=compact&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Streak de commits
+![Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=pdroowkjj&theme=dark)
+
+---
+
+## Contribuições
+![Contribuições do GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pdroowkjj&theme=dracula)
