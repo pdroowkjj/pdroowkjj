@@ -9,7 +9,7 @@
 ---
 
 ## Streak de commits 🔥
-[![GitHub Streak](https://streak-stats.demolab.com?user=pdroowkjj)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=pdroowkjj&theme=dark)](https://git.io/streak-stats)
 
 ## Contribuições 🌱
 ![Contribuições do GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pdroowkjj&theme=dracula)
