@@ -12,4 +12,4 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=pdroowkjj&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
 
 ## Contribuições 🌱
-![Contribuições do GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pdroowkjj&theme=dracula)
+![Contribuições do GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pdroowkjj&theme=dark)
