@@ -13,5 +13,3 @@
 
 ## Contribuições 🌱
 ![Contribuições do GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pdroowkjj&theme=dark)
-
-## Projetos 🖥
