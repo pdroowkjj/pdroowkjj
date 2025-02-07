@@ -1,7 +1,7 @@
 # Olá, eu sou o Pedro Potapczuk! 👋
 
 ## GitHub Stats 📊
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=pdroowkjj&show_icons=true&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=pdroowkjj&show_icons=true&theme=dark&locale=pt-br)
 
 ## Linguagens mais usadas 💻
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=pdroowkjj&layout=compact&theme=dark&locale=pt-br)
